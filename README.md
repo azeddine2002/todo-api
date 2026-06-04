@@ -3,7 +3,7 @@
 API REST de gestion de tâches avec Node.js et Docker.
 
 ## Membres du groupe
-- Ton Prénom Nom
+- azeddine amari
 
 ## Comment lancer le projet
 
